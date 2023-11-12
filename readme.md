@@ -5,3 +5,6 @@ Anyway if you're also learning C and wondering for projects idea, maybe you can 
 
 ## Contributing
 Well this projects is not only for myself, if you want to improve my projects or want to practice git and github or maybe want to participate some events like octoberfest, you can create issue or create pull request directly on each repository. I will be glad if you contribute to my project :)
+
+## License
+This Projects is under [GPLv2 License](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
